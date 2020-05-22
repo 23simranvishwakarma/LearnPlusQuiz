@@ -34,10 +34,10 @@ The functionality of both the panels are as follows:
 
 ![2020-04-08 (11)](https://user-images.githubusercontent.com/58383994/82201822-8e148700-991e-11ea-9d47-6b64ba42f7d7.png)
 
-### 1. From here admin can insert question
+### 1. This is Upload Questions Panel (Admin will upload questions from here)
 ![2020-04-08 (12)](https://user-images.githubusercontent.com/58383994/82201958-c74cf700-991e-11ea-970e-723e25d031a1.png)
 
-### 2. From here Admin can Insert notes
+### 2. This is Upload Notes Panel (Admin will upload notes From here)
 ![2020-04-08 (13)](https://user-images.githubusercontent.com/58383994/82201969-cd42d800-991e-11ea-86ce-0e1f02ceedfe.png)
 
 ---
